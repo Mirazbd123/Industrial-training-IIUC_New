@@ -1,0 +1,32 @@
+[
+    {
+        "Product ID": "1",
+        "Product Name": "Mobile",
+        "Price": "200",
+        "Stock Quantity": "10"
+    },
+    {
+        "Product ID": "2",
+        "Product Name": "Laptop",
+        "Price": "500",
+        "Stock Quantity": "5"
+    },
+    {
+        "Product ID": "3",
+        "Product Name": "Earphone",
+        "Price": "15",
+        "Stock Quantity": "20"
+    },
+    {
+        "Product ID": "4",
+        "Product Name": "Keyboard",
+        "Price": "25",
+        "Stock Quantity": "30"
+    },
+    {
+        "Product ID": "5",
+        "Product Name": "Mouse",
+        "Price": "10",
+        "Stock Quantity": "30"
+    }
+]
