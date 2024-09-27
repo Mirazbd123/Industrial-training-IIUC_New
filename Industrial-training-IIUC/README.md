@@ -1,3 +1,3 @@
 # Industrial-training-IIUC
 Industrial Training IIUC
-MD Ismail C193026
+Mirazul Alam Arman C193002
